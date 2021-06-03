@@ -1,0 +1,15 @@
+[h1]MOD ID: 2505754047[/h1]
+[img]https://i.imgur.com/fVVaDCS.gif[/img]
+
+[h1]Show Me Whales[/h1]
+Super simple tiny mod. Stackable. 
+Makes Space Whales visible on any map. 
+That's it. That's what it does.
+
+Oh.. I did put an INI in case anyone has some other whales they want to make visible too. 
+
+[code]
+[ShowMeWhales]
+OtherWhales=/Game/Mods/SomeOtherMod1/Some/Path/OtherWhale1.OtherWhale1,/Game/Mods/SomeOtherMod2/Some/Path/OtherWhale2.OtherWhale2
+[/code]
+
